@@ -18,7 +18,7 @@ Your next Python package needs a bleeding-edge project structure.
 ## TL;DR
 
 ```bash
-cookiecutter gh:TezRomacH/python-package-template --checkout v1.1.1
+cookiecutter gh:jptalukdar/python-package-template --checkout v1.1.2
 ```
 
 > All you need is the latest version of cookiecutter 😉
